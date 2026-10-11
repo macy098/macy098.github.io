@@ -7,12 +7,16 @@
 计算机大白一枚，正在学习C++,java,python,第一次制作个人网站，请多指教
 
 ##📚Skill
+
 -Programming：C++，Java，Python
+
 -Tools：Git,GitHub
 
 ##📂Project
 -[poop-timer](https://github.com/macy098/poop-timer):简易计时器
 
-##🔗Link(这是我主页和LeetCode的链接，新人请多指教)
+##🔗Link(这是我主页和LeetCode的链接，新人请多指教)              
+
 -GitHub：https://github.com/macy098
+
 -LeetCode:[My LeetCode](https://leetcode.cn/u/i3rave-albattanitxj/)
